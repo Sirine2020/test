@@ -1,0 +1,11 @@
+ Le volume dans le lecteur C s'appelle OS
+ Le num‚ro de s‚rie du volume est 4A43-BE91
+
+ R‚pertoire de C:\Users\ASUS\Desktop\test2021
+
+26/06/2021  11:58    <DIR>          .
+26/06/2021  11:58    <DIR>          ..
+26/06/2021  09:50               374 test1.txt
+26/06/2021  11:58                 0 test2.txt
+               2 fichier(s)              374 octets
+               2 R‚p(s)  145ÿ801ÿ785ÿ344 octets libres
